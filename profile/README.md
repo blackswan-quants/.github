@@ -2,7 +2,7 @@
 
 This Organization contains the repositories of projects developed by the programmers team in the Quantitative Finance Division in Starting Finance Polimi club. 
 
-If you're a new member and you have access to the organization, read [this guide]([https://github.com/quantfin-sfpolimi/.github/blob/main/programmers_guidelines.md](https://github.com/quantfin-sfpolimi/programmers_guidelines/tree/main)) for new programmers.
+If you're a new member and you have access to the organization, read [this guide](https://github.com/quantfin-sfpolimi/programmers_guidelines/tree/main) for new programmers.
 
 If you're just a visitor, check out some of our projects: 
 - [Predicting correlations in NASDAQ using RNNS.](https://github.com/quantfin-sfpolimi/nasdaq_rnn)
