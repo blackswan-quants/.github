@@ -1,4 +1,4 @@
-# Quantitative Finance 
+# Quantitative Finance Division, Starting Finance Polimi
 
 This Organization contains the repositories of projects developed by the programmers team in the Quantitative Finance Division in Starting Finance Polimi club. 
 
