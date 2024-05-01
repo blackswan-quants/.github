@@ -7,4 +7,4 @@ If you're a new member and you have access to the organization, read [this guide
 If you're just a visitor, check out some of our projects: 
 - [Predicting correlations in NASDAQ using RNNS.](https://github.com/quantfin-sfpolimi/nasdaq_rnn)
 - [Study on commodities Seasonality](https://github.com/quantfin-sfpolimi/commodities_seasonality).
-- [Finding the best Python API/library for financial data](https://github.com/quantfin-sfpolimi/libraries_profiling).
+- [Finding the best free Python API for financial data](https://github.com/quantfin-sfpolimi/libraries_profiling).
